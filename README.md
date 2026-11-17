@@ -2,7 +2,7 @@
 
 Étudiant en 3ème année Licence en Génie Logiciel à l'ESSTHS et passionné par l'architecture logicielle, le développement backend et l'écosystème DevOps.
 
-- 🔭 Je développe actuellement **Student Manager** (Spring Boot & Angular) et **SafeLedger** (Plateforme de supervision financière avec FastAPI et Random Forest).
+- 🔭 Je développe actuellement **Fraud-detection-platform** (Plateforme de supervision financière avec FastAPI et Random Forest).
 - 🌱 Je me spécialise dans l'automatisation CI/CD, la containerisation et les architectures robustes basées sur les principes SOLID.
 - ⚡ **Objectif :** Devenir Expert DevOps.
 
